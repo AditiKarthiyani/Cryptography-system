@@ -1,0 +1,11 @@
+{
+    "version": "X.509 vs (simulated certificate)",
+    "subject": "bob",
+    "issued_by": "bob",
+    "valid_from": "2026-04-26",
+    "valid_until": "2027-04-26",
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApM1z/QQ/mxdk88u2rIu2\nkoDHnC5C/Svqg9x30sYb9On5Wk/0hVuZjbTikrG2KV/YZ7GrPAzKhhRYy2KQ1Ofl\nv7svWigID6mUQ0tMSutHbpp701liExIVJCV6uamJE0zYd5VaBqp6YAHL0XjmJ7RK\nrD9q5mwX+hso/EDVMM0fwvkzx3coSDkA8S+0FkxnLrSBXumuwfUul0AizMFdslSy\n6ZZqPlPEVKgbsnKKAqzVaDoAIrQZLZYp74/Zf0mEFRs8PFjZ1DiXIDMy1Nmb+rUX\nf0lKqbI1D+aBtUMiVDGqe0IucWesGn7I5XrTgMWczVszIWXkoAbNAlm6HYXxdLCM\n8wIDAQAB\n-----END PUBLIC KEY-----",
+    "algorithm": "SHA256-with-RSA",
+    "serial_no": "01:aaa:BO:DF:33:3T",
+    "signature": "g8M+mMfZxV+0zVQnfA83qa/qXe186kNPv5/0oE/mFMiDnpmnA5SA+qp/01cfN2eK+NaDt8qCejtds6LrXxm+YBcKSxCtISmQ9wWRUoDILYdW0dVzG4n3iBPC2uUiERPmBXQ2gsBNLVqCA4cSrQKs/7ZaJLRSkYa2ahG77YLBoqxMVR125XZ6iMkTd8jXqkVQ/f9pPWZwC+lz7Qz1T37q3eRd/VXX/NitFYMgjtUmjoZETxXzFVVWQo+F40ls/PWCAceHgWRPj2ibpguhAdHIeYZkBaUErOfKN637dQBFAaO1t3ZkpUOrhT0CdNPwRbnDmhb0a8bMGkiBpYIlDvLshg=="
+}
