@@ -1,0 +1,8 @@
+{
+    "encrypted_session_key": "y/Mkw+VL20UmMB2wCQk8xlZhRSWt/8kCr8/Gd3IKakBtXXKrObzcXo8TV4DvsPuCKcna66g1b+Pi9uwXgx67Hx+FwezhLfbJfCEpbbIn6rwq241fL116c9P252ND1Kif8vR5YI5e2/6HSW0g1mZHW4Ka0Zf20WzoXiFqdvCmqStarYUUn+QQSqRZMnPghCf58Kr5toF278hQcRVp3L4fxI/1uT5trX19lz6qWCI9DX9ZE/bSigRlEtR+vFe8IhSQInq+SxwD1KFEWjXKbWTHAOLFhB3HwjA0avL+gRbzKmBmC961Xm2pmP8bzHg9LZuwOK8E7k17W0QWhtQQDPvP9w==",
+    "nonce": "2nAE7EYToUUFHXJmrXDSew==",
+    "ciphertext": "79UoFC165EsJtMNuBe1n98wD6j8KzGIOd/QnIVfZYmHK/XrDWrzDKnuaf4FwkICenamfCKGu56rFPZU6giAXlBDlx27Z8G7qwCNozvGs7WUsKk6KwyDYw6p5phojWpJ/xjsFAMp1n8r3M1fOaxnVvaVRABiYWp/p1eVqsen19pkIZKZ12MlgC/aaDjl8AEId+rIVw0VW4VJfvg==",
+    "tag": "BPDXLH6ewbvueMIOootmIA==",
+    "encrypted_by": "bob",
+    "encrypted_for": "bob"
+}
