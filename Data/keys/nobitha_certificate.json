@@ -1,0 +1,11 @@
+{
+    "version": "X.509 vs (simulated certificate)",
+    "subject": "nobitha",
+    "issued_by": "nobitha",
+    "valid_from": "2026-04-26",
+    "valid_until": "2027-04-26",
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlqrGEOnSiWxeyADfq7n0\nqtMjkA8g9QUqiVy+qjRi+N7QV+G2Sv0WRPX2xfJh+o1+SmBEdW1lMkGx+0964gg5\nM2ddNK53TsR5r87VeYrDVwyLGeJnNEuCgi9IdeJGXcIcMHzk1A7+8We9UogCsTlX\nfllVjaA7inNxSZXuE0dfQuU1LmiCjKiBTKQhab8j8FX9gGZXCgBB6tpgkvYDmjCw\n7aR1AYaMteb0NrB6J86xbpee3rbaTjlaVfTU3sgyw24w1WOJdtiSrD/wTurcf4HZ\npE3qmohW/azy+sq6zZgfzeJ5JJtj7GnhiIaJ8UoMCSpWaVySNpGe54G8Zu6hvJ5D\n9wIDAQAB\n-----END PUBLIC KEY-----",
+    "algorithm": "SHA256-with-RSA",
+    "serial_no": "01:aaa:NO:DF:33:3T",
+    "signature": "M6o9hJOzXPvTGaNNMix33Gy8Nou1/NfemsqmNDbDokhMMIBsYAZXxKfl3ZZUwjjHNkZJRokXicIHXpYGlzFoU42MZHeOCOzMIM4ahTV4nWTufxvcktZVvYs5To/pIRIUF5XNsPcfvImqLEjNKW3CN2Zp0Q/I2tNfNDOhRZ5J4h+q+IzvF7BG8rDmdxyLPTcumoV+zUSAI4QjLRCuE7qIXjwPeJ6WtowQZvchwTeBlMIGnEPq188TeugUiESxaQN0lqgHLutuL3O34xakwhrd8R1GCXgLvrc8zREbZg/96qpBipGpykIY9a87Rg0kYMTJVxoGAbzXcw4T0fOffcjLmA=="
+}

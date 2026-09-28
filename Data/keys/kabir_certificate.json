@@ -1,0 +1,11 @@
+{
+    "version": "X.509 vs (simulated certificate)",
+    "subject": "kabir",
+    "issued_by": "kabir",
+    "valid_from": "2026-04-26",
+    "valid_until": "2027-04-26",
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvYIgONObcmYS+3Iq6nfC\nVe+ByvIvkoFvXrCJm4t6mFRYx+PEas89ktPOaUhcic9ssxbbdJRsbY+PHnZgvUFi\nrWH+JtIswU32qadd2b13YY9SOOCBYkkktTC9Qd3TfJ8pZ+46CPZ3hcCLWPqfPdCd\nAigR1u+CpMLSLkWOEqAWSL9TbEp7eiggUBD5Vrw1JaLBPoF1azlGScTu2WLhazWa\nAtTaYt3lHxqtBObdULA2j+rR03oK9ozpHApASUWAWZbJWgbOyYDn23c9HMmR5oXi\nuh9tYvsQkv777PuPscanCD9/bdFnsmO6GpOxyJdQd0brSijuPvxEMUZPUUIrHekD\nkQIDAQAB\n-----END PUBLIC KEY-----",
+    "algorithm": "SHA256-with-RSA",
+    "serial_no": "01:aaa:KA:DF:33:3T",
+    "signature": "XQjodZWZpC6TEgmW4uwWoQNPreiqEYFX4ALL+Ah0HzV8DzZN/4AUt/SjQzI870L7sNu47WlceQKeBotOkkaMtNn7JsXPweHNeFAsU5BepvLiVCflYuf6lCL75JUgh/qcB1dAkT88/xg/rOuC13PRg2leGw1BCWj8bOjH9RN0N5lCPEM2oqiz1KX3st5al1KNpA4NQGYWAcBQB7atJTlKuPWeIg0fRc5npP1yHOKKQvrSyWx96Gx58fTZUZoHasdymOrD+9JnwfvNPEu6xcuDVTs1z3MRd4tUNuI/b5OaRYDZEwawmdyR2M0X2hEsV0lCyeGwMCFVe9F9fpIJQ+WW7Q=="
+}
